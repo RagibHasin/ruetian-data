@@ -1,0 +1,63 @@
+- for: Winter Vacation (শীতকালীন ছুটি)
+  from: 2020-01-11
+  to: 2020-01-15
+- for: Saraswati Puja (সরস্বতী পূজা)
+  on: 2020-01-29
+- for: Martyrs' Day (শহীদ দিবস)
+  on: 2020-02-21
+- for: COVID19 Quarantine (করোনা কোয়ারেন্টাইন)
+  from: 2020-03-15
+  to: 2020-04-09
+- for: Birthday of Bangabandhu (বঙ্গবন্ধুর জন্মদিন)
+  on: 2020-03-17
+- for: Shab-e-Miraj (শব-ই-মিরাজ)
+  on: 2020-03-23
+- for: Independence Day (স্বাধীনতা দিবস)
+  on: 2020-03-26
+- for: Shab-e-Barat (শব-ই-বরাত)
+  on: 2020-04-10
+- for: Bangla New Year (নববর্ষ)
+  on: 2020-04-14
+- for: Ramadan Vacation (রমযানের ছুটি)
+  from: 2020-04-23
+  to: 2020-05-22
+- for: May Day (মে দিবস)
+  on: 2020-05-01
+- for: Buddha Purnima (বুদ্ধ পূর্ণিমা)
+  on: 2020-05-06
+- for: Shab-e-Qadr (শব-ই-ক্বদর)
+  on: 2020-05-21
+- for: Jumat-ul-Bida (জুমাতুল বিদা)
+  on: 2020-05-22
+- for: Eid-ul-Fitr (ঈদ-উল-ফিতর)
+  from: 2020-05-23
+  to: 2020-05-30
+#- for: Summer Vacation (গ্রীষ্মের ছুটি)
+#  from: 2020-05-31
+#  to: 2020-06-05
+- for: Eid-ul-Adhha (ঈদ-উল-আযহা)
+  from: 2020-07-28
+  to: 2020-08-05
+- for: Janmashtami (জন্মাষ্টমী)
+  on: 2020-08-11
+- for: Mourning Day (শোক দিবস)
+  on: 2020-08-15
+- for: Ashura (আশুরা)
+  on: 2020-08-30
+- for: University Day (বিশ্ববিদ্যালয় দিবস)
+  on: 2020-09-01
+- for: Akheri Chahar Somba (আখেরি চাহার সোম্বা)
+  on: 2020-10-14
+- for: Durga Puja (দুর্গাপূজা)
+  from: 2020-10-22
+  to: 2020-10-28
+- for: Milad-un-Nabi (মিলাদুন্নবী)
+  on: 2020-10-30
+- for: Fatiha-e-Yajdahm (ফাতেহা-ই-ইয়াজদাহম)
+  on: 2020-11-27
+- for: Buddhijibi Day (বুদ্ধিজীবী দিবস)
+  on: 2020-12-14
+- for: Victory Day (বিজয় দিবস)
+  on: 2020-12-16
+- for: Christmas (বড়দিন)
+  on: 2020-12-25

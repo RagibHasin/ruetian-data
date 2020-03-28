@@ -1,0 +1,112 @@
+A:
+  - course: EEE 2105
+    teacher: SCM
+    period: 4
+    classRoom: EEE 201
+  - course: Math 2101
+    teacher: MSA
+    period: 5
+    classRoom: EEE 201
+  - course: ME 2101
+    teacher: RIS
+    period: 6
+    classRoom: EEE 201
+B:
+  - course: EEE 2104
+    teacher: MFH
+    period: 1
+    classRoom: Electronics Lab
+    contactHours: 3
+    frequency:
+      everyCycleWith: 2
+  - course: EEE 2103
+    teacher: MTH
+    period: 4
+    classRoom: EEE 104
+  - course: ME 2101
+    teacher: AMP
+    period: 5
+    classRoom: EEE 104
+  - course: Math 2101
+    teacher: MSA
+    period: 6
+    classRoom: EEE 104
+  - course: ME 2102
+    teacher: PD
+    period: 7
+    classRoom: Heat Engine Lab
+    contactHours: 3
+C:
+  - course: EEE 2106
+    teacher: SCM
+    period: 1
+    classRoom: Machine Lab
+    contactHours: 3
+    frequency:
+      everyCycleWith: 1
+  - course: EEE 2100
+    teacher: KNS
+    period: 4
+    classRoom: Measurement Lab
+    contactHours: 3
+    frequency:
+      everyCycleWith: 2
+  - course: IPE 2111
+    teacher: MRI
+    period: 7
+    classRoom: EEE 201
+  - course: EEE 2105
+    teacher: SCM
+    period: 8
+    classRoom: EEE 201
+  - course: EEE 2103
+    teacher: MTH
+    period: 9
+    classRoom: EEE 201
+D:
+  - course: EEE 2104
+    teacher: MFH
+    period: 1
+    classRoom: Electronics Lab
+    contactHours: 3
+    frequency:
+      everyCycleWith: 1
+  - course: IPE 2111
+    teacher: MRI
+    period: 4
+    classRoom: EEE 201
+  - course: ME 2101
+    teacher: AMP
+    period: 5
+    classRoom: EEE 201
+  - course: EEE 2105
+    teacher: SCM
+    period: 6
+    classRoom: EEE 201
+E:
+  - course: IPE 2111
+    teacher: MRI
+    period: 1
+    classRoom: EEE 201
+  - course: EEE 2103
+    teacher: MMR
+    period: 2
+    classRoom: EEE 201
+  - course: Math 2101
+    teacher: MNS
+    period: 3
+    classRoom: EEE 201
+  - course: EEE 2106
+    teacher: SCM
+    period: 4
+    classRoom: Machine Lab
+    contactHours: 3
+    frequency:
+      everyCycleWith: 2
+  - course: EEE 2100
+    teacher: KNS
+    period: 7
+    classRoom: Measurement Lab
+    contactHours: 3
+    frequency:
+      everyCycleWith: 1

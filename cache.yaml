@@ -1,0 +1,19 @@
+---
+inner:
+  18:
+    "18":
+      semester:
+        secs_since_epoch: 1583035995
+        nanos_since_epoch: 771682100
+      notices:
+        secs_since_epoch: 1583069724
+        nanos_since_epoch: 442503200
+days:
+  secs_since_epoch: 1583039449
+  nanos_since_epoch: 493422100
+holidays:
+  secs_since_epoch: 1583034400
+  nanos_since_epoch: 424151700
+central_notices:
+  secs_since_epoch: 1583058791
+  nanos_since_epoch: 729509400

@@ -1,0 +1,10 @@
+- classOff:
+    date: 2020-01-28
+    time:
+      allDay: 2020-01-28
+    dayOff: true
+- classOff:
+    date: 2020-03-01
+    time:
+      allDay: 2020-03-01
+    dayOff: true
